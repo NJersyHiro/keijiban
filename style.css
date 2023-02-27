@@ -1,0 +1,135 @@
+body {
+    font-family: "Hiragino kaku Gothic ProN","メイリオ",sans-serif;
+}
+
+.logo_img {
+    height: 80px;
+}
+
+.menu {
+    background-color: black;
+    height: 32px;
+}
+.menu li{
+    float: left;
+    list-style-type: none;
+    padding: 5px 15px 5px 15px;
+    color: white;
+}
+
+.main_container {
+    padding: 5px;
+}
+
+.contents {
+    width: 70%;
+    float: left;
+    padding: 0px 0px 30px 0px;
+}
+
+.title {
+    border-left: 4px solid;
+    border-bottom: 1.5px solid;
+    margin: 0px;
+}
+form {
+
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 100%;
+}
+
+h2 {
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: solid 4px red;
+    background-color: #f1f1f1;
+    padding: 5px 0px 5px 5px;
+    font-size: 20px;
+    
+}
+
+form div {
+    padding: 15px;
+}
+
+.text, textarea {
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color:#bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.kiji {
+    width: 100%;
+    background-color: #f1f1f1;
+    border: solid 3px #ebebeb;
+    margin-top: 20px;
+}
+
+h3 {
+    margin: 20px;
+    padding-bottom: 0;
+    border-bottom: solid #bfbfbf;
+}
+
+.comments {
+    padding: 20px;
+    padding-top: 0;
+    font-size: 17px;
+}
+
+.handlename {
+    font-size: 15px;
+    margin-top: 7px;
+}
+
+.side_menu {
+    width: 28%;
+    float: right;
+    
+}
+
+.side_title {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    border-bottom: dotted;
+}
+.side_menu li {
+
+    margin-top: 18px;
+    font-size: 18px;
+    list-style-type: none;
+
+}
+
+
+
+footer {
+    width: 100%;
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 30px;
+    font-size: 5px;
+
+}
+
+footer p {
+    
+    padding: 5px;
+    
+}
